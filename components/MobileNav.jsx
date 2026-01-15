@@ -26,14 +26,6 @@ const links = [
         name: 'Contact',
         path: '/contact',
     },
-    {
-        name: 'CTF',
-        path: '/key-material/index.html',
-    },
-    {
-        name: 'CTFJS',
-        path: '/key-material/index.js',
-    },
 ]
 
 const MobileNav = () => {
