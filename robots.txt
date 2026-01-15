@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /backup_2021/
-Disallow: /key-material/
