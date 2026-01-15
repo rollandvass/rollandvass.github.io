@@ -28,7 +28,11 @@ const links = [
     },
     {
         name: 'CTF',
-        path: '/key-material',
+        path: '/key-material/index.html',
+    },
+    {
+        name: 'CTFJS',
+        path: '/key-material/index.js',
     },
 ]
 
