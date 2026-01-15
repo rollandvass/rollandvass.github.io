@@ -26,6 +26,10 @@ const links = [
         name: 'Contact',
         path: '/contact',
     },
+    {
+        name: 'CTF',
+        path: '/key-material',
+    },
 ]
 
 const MobileNav = () => {
